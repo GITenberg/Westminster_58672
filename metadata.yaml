@@ -1,0 +1,27 @@
+_repo: Westminster_58672
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Besant, Walter
+    aliases:
+    - Besant, Sir Walter
+    - Maurice, Walter
+    birthdate: 1836
+    deathdate: 1901
+    gutenberg_agent_id: '5404'
+    url: http://www.gutenberg.org/2009/agents/5404
+    wikipedia: http://en.wikipedia.org/wiki/Walter_Besant
+description: ''
+gutenberg_issued: '2019-01-11'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '58672'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Westminster (London, England) -- Description and travel'
+- GITenberg
+title: Westminster
+url: http://www.gutenberg.org/ebooks/58672
